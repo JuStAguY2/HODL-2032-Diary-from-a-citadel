@@ -13,6 +13,7 @@ To Dos (first steps):
 - [ ] Set up a Telegram channel to coordinate interested Authors collaboration
 - [ ] Enable BTC-Donations for proofreading/editing?
 - [ ] Which License to use?
+
 ... to be continued
 
 The idea behind the book is to extend the scope of the initaal Redit post by Luka Magnotta: "A Message from a time Traveler" and place some of his thoughts in a future that is interesting for the reader without being too sinister and dystopian:
