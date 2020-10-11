@@ -7,16 +7,19 @@ That means mainly to translate what has been written to English and setting up s
 
 To Dos (first steps):
 
-1.  Translate everything to english (e.g. via DeepL and subsequent editing)
-2.  Establish a "Way of working" by testing collaboration via GitHub
-3.  Set up a Telegram channel to coordinate interested Authors collaboration
-4.  Donations? Necessary? What to use them for? (Publishing etc.?)
-5.  Which License to use? (relevant only when it is public).
+- [x] Translate first pages to English
+- [ ] The first pages are machine translated to english --> Editing and improving wording has to be carried out.
+- [ ] Establish a "Way of working" by testing collaboration via GitHub
+- [ ] Set up a Telegram channel to coordinate interested Authors collaboration
+- [ ] Enable BTC-Donations for proofreading/editing?
+- [ ] Which License to use?
 ... to be continued
 
-The idea behind the book is to extend the scope of the initaal Redit post by Luka Magnotta: "A Message from a time Traveler":
+The idea behind the book is to extend the scope of the initaal Redit post by Luka Magnotta: "A Message from a time Traveler" and place some of his thoughts in a future that is interesting for the reader without being too sinister and dystopian:
 
-I am sending this message from the year 2025. Things are looking bleak here, and some of you will carry blood on your hands.
+Here the initial reddit post by Luka:
+
+*I am sending this message from the year 2025. Things are looking bleak here, and some of you will carry blood on your hands.
 Please move on if you don’t believe me, I have no way of proving I’m going to tell you.
 I don’t want to waste your time, so I’m merely going to explain what happened and its consequences.
 The value of Bitcoin has increased by about a factor ten, on average, every year until 2013.
@@ -36,7 +39,7 @@ On average, this means the average person owns just under 0.003 bitcoin. However
 That’s right, most of you reading this today are rich if you didn’t lose your wallet. I live near an annoying young man who checked his old wallet account two years ago and discovered that he received a tip of 0.01 Bitcoin back in 2013 for calling someone a “faggot” when he was a 16-year-old boy. Upon making this discovery he bought an airline ticket, left his house without telling anyone and escaped to a Citadel.
 “What is a Citadel?” you might wonder. Well, by the time Bitcoin reached $1M, services began to emerge for the “Bitcoin rich” to protect themselves as well as their wealth.
 
-It started with expensive safes, then began to include bodyguards, and today, “earlies” (our term for early adapters), as well as those rich whose wealth survived the “transition” live in isolated gated cities called Citadels, where most work is automated.
+*It started with expensive safes, then began to include bodyguards, and today, “earlies” (our term for early adapters), as well as those rich whose wealth survived the “transition” live in isolated gated cities called Citadels, where most work is automated.
 Most such Citadels are born out of the fortification used to protect places where Bitcoin mining machines were located. The company known as ASICMiner is known here as a city where Mr. Friedman rules as a king.
 In my world, soon to be your world, most governments no longer exist, as Bitcoin transactions are done anonymously and thus governments can’t enforce taxation on their citizens.
 Exchanges of services are nearly all online, totally decentralized and anonymous.
